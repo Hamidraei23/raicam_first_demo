@@ -23,7 +23,7 @@ You'll find the ROBOTNIK platform simulation files and installation/setup instru
 
 ## Demo World, 
 
-1. In the launch file "summit_xls_complete.launch" search  or world and in change it to demo.world
+1. In the launch file "summit_xls_complete.launch" search  for world and change the arg to demo.world
 
 2. also you need to change the map which has the prefix of .yaml in the same launch file
 
